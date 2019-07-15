@@ -1,0 +1,11 @@
+E:\Загрузки из Интернета\решения\graph\graph\bin\Release\graph.exe.config
+E:\Загрузки из Интернета\решения\graph\graph\bin\Release\graph.exe
+E:\Загрузки из Интернета\решения\graph\graph\bin\Release\graph.pdb
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.Form1.resources
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.Form2.resources
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.csproj.GenerateResource.Cache
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.exe
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.pdb
+E:\Загрузки из Интернета\решения\graph\graph\obj\Release\graph.csprojResolveAssemblyReference.cache

@@ -1,0 +1,30 @@
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\bin\Debug\Lab_5.exe.config
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\bin\Debug\Lab_5.exe
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+E:\Загрузки из Интернета\решения\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\bin\Debug\Lab_5.exe.config
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\bin\Debug\Lab_5.exe
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.csprojAssemblyReference.cache
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.Form1.resources
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+E:\Загрузки из Интернета\Универ\Алгоритмы и методы\Проекты\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\bin\Debug\Lab_5.exe.config
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\bin\Debug\Lab_5.exe
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\bin\Debug\Lab_5.pdb
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.Form1.resources
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.Properties.Resources.resources
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.exe
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 5\Lab_5\obj\Debug\Lab_5.pdb

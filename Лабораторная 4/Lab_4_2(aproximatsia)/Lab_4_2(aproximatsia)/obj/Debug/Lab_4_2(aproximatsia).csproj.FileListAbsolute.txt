@@ -1,0 +1,20 @@
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\bin\Debug\Lab_4_2(aproximatsia).exe.config
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\bin\Debug\Lab_4_2(aproximatsia).exe
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\bin\Debug\Lab_4_2(aproximatsia).pdb
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2_aproximatsia_.Form1.resources
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2_aproximatsia_.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).exe
+E:\Загрузки из Интернета\решения\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).pdb
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\bin\Debug\Lab_4_2(aproximatsia).exe.config
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\bin\Debug\Lab_4_2(aproximatsia).exe
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\bin\Debug\Lab_4_2(aproximatsia).pdb
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2_aproximatsia_.Form1.resources
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2_aproximatsia_.Properties.Resources.resources
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).exe
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_2(aproximatsia)\Lab_4_2(aproximatsia)\obj\Debug\Lab_4_2(aproximatsia).pdb

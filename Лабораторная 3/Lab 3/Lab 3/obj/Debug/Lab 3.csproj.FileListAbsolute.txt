@@ -1,0 +1,30 @@
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab_3.Form1.resources
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+E:\Загрузки из Интернета\решения\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab_3.Form1.resources
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+E:\Загрузки из Интернета\решения\Lab3 +-(Ньютон)\Lab 3\Lab 3\obj\Debug\Lab 3.pdb
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\bin\Debug\Lab 3.exe.config
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\bin\Debug\Lab 3.exe
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\bin\Debug\Lab 3.pdb
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab 3.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab_3.Form1.resources
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab 3.exe
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab 3\Lab 3\obj\Debug\Lab 3.pdb

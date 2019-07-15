@@ -1,0 +1,20 @@
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+E:\Загрузки из Интернета\решения\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.Form1.resources
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+C:\Users\Артур\Desktop\Алгоритмы\Лабораторная 3\Lab_3\Lab_3\obj\Debug\Lab_3.pdb

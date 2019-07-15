@@ -1,0 +1,20 @@
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1_spline_.Form1.resources
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1_spline_.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\bin\Debug\Lab_4_1(spline).exe.config
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\bin\Debug\Lab_4_1(spline).exe
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\bin\Debug\Lab_4_1(spline).pdb
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).exe
+E:\Загрузки из Интернета\решения\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).pdb
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\bin\Debug\Lab_4_1(spline).exe.config
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\bin\Debug\Lab_4_1(spline).exe
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\bin\Debug\Lab_4_1(spline).pdb
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1_spline_.Form1.resources
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1_spline_.Properties.Resources.resources
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).exe
+C:\Users\Артур\Desktop\Lab4 +\Lab_4_1(spline)\Lab_4_1(spline)\obj\Debug\Lab_4_1(spline).pdb
